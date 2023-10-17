@@ -1,0 +1,11 @@
+{
+  "name": "ai-kata",
+  "version": "1.0.0",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "express": "^4.18.2",
+    "body-parser": "^1.18.2",
+    "supertest": "^6.3.3"
+  }
+}
